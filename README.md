@@ -17,8 +17,8 @@ Uma aplicação web para consultar a previsão do tempo e as condições meteoro
 
 ## 📁 Estrutura de Ficheiros
 
-- `index_2.html`: Contém a estrutura principal e o script com a lógica de comunicação com a API[cite: 4].
-- `style_2.css`: Ficheiro com os estilos visuais e o layout do cartão da aplicação[cite: 5].
+- `index.html`: Contém a estrutura principal e o script com a lógica de comunicação com a API[cite: 4].
+- `style.css`: Ficheiro com os estilos visuais e o layout do cartão da aplicação[cite: 5].
 
 ## 💻 Como Executar o Projeto
 
